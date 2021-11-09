@@ -36,7 +36,7 @@ social:
 #  - icon: file-pdf-o
 #    title: CV
 #    url: img/MyCV.pdf
-  - icon: googlescholar
+  - icon: google
     title: google scholar
     url: https://scholar.google.com/citations?user=2SWHvi4AAAAJ&hl=en
   - icon: twitter
