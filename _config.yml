@@ -39,13 +39,13 @@ social:
 #  - icon: twitter
 #    title: twitter
 #    url: https://twitter.com/erica_sarro
-#  - icon: icon-graduation
+#  - icon: file-pdf-o / building / tasks / globe
 #    title: CV
 #    url: https://erica-sarro.github.io/CV.pdf
   - icon: university
     title: CV
     url: https://erica-sarro.github.io/CV.pdf
-  - icon: file-pdf-o
+  - icon: building
     title: Resume
     url: https://erica-sarro.github.io/resume.pdf
 
