@@ -1,9 +1,0 @@
----
-layout: default
-img: project.jpg
-category: Projects
-title: "Project Name"
-description: |
----
-
-* Add here the project description...
