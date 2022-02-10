@@ -42,10 +42,10 @@ social:
 #  - icon: icon-graduation
 #    title: CV
 #    url: https://erica-sarro.github.io/CV.pdf
-  - icon: graduation
+  - icon: icon-graduation
     title: CV
     url: https://erica-sarro.github.io/CV.pdf
-  - icon: notebook
+  - icon: icon-notebook
     title: Resume
     url: https://erica-sarro.github.io/resume.pdf
 
