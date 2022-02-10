@@ -33,9 +33,12 @@ social:
 #  - icon: linkedin
 #    title: linkedin
 #    url: https://www.linkedin.com/in/erica_sarro/
-#  - icon: file-pdf-o
-#    title: CV
-#    url: img/MyCV.pdf
+  - icon: file-pdf-o
+    title: CV
+    url: https://username.github.io/folder/cv.pdf
+  - icon: file-pdf-o
+    title: Resume
+    url: https://username.github.io/folder/resume.pdf
   - icon: google
     title: google scholar
     url: https://scholar.google.com/citations?user=2SWHvi4AAAAJ&hl=en
